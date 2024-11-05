@@ -16,10 +16,12 @@ demo:
 
 ![dark_desktop](<Screenshot 2024-11-05 at 23.24.20.png>) 
 ![dark](<Screenshot 2024-11-05 at 23.24.45.png>)
-![mobile](image.png)
+<img width="1694" alt="image" src="https://github.com/user-attachments/assets/408dfc30-953e-480a-a1c4-d4b3185a9ad0">
+
 
 ## Available Scripts
 source code: https://github.com/david-tejada/fem-kanban-task-management
+
 In the project directory, you can run:
 
 ### `npm start`
